@@ -6,8 +6,6 @@
 
 A robust, full-stack Decentralized Finance (DeFi) application featuring an algorithmic, exogenous, and heavily overcollateralized stablecoin. This project demonstrates core smart contract engineering, risk management, and local blockchain interactions.
 
-> **🖥️ Frontend Repository:** https://github.com/BhupinderrSingh/DeFi-Frontend
-
 ## 📖 About the Project
 
 The DSC Engine is a Collateralized Debt Position (CDP) system. It allows users to deposit crypto assets (WETH and WBTC) as collateral to mint a custom stablecoin (DSC) pegged to the US Dollar. 
